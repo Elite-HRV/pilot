@@ -5,14 +5,9 @@ with open('README.md') as readme_file:
     readme = readme_file.read()
 
 
+requirements = []
 setup_requirements = ['pytest-runner', ]
 test_requirements = ['pytest>=3', ]
-requirements = ['argh',]
-
-
-COMMANDS = [
-    'greet = starter.cli:greet',
-]
 
 
 setup(
@@ -28,19 +23,18 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    description="A starter template for Python packages.",
-    entry_points={'console_scripts': COMMANDS},
+    description="Data science and machine learning recruiting",
     install_requires=requirements,
     license="MIT license",
     long_description=readme,
     include_package_data=True,
-    keywords='starter',
-    name='starter',
-    packages=find_packages(include=['starter', 'starter.*']),
+    keywords='pilot',
+    name='pilot',
+    packages=find_packages(include=['pilot', 'pilot.*']),
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/yngtodd/starter',
+    url='https://github.com/Elite-HRV/pilot',
     version='0.1.0',
     zip_safe=False,
 )
