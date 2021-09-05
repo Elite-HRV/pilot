@@ -9,7 +9,7 @@ some previous studies are outlined in the following three papers included
 in this repository:
 
 
-### Kizito et. al 2014
+## Kizito et. al 2014
 
 Abstract:
 
@@ -33,7 +33,7 @@ valuable contribution to several research fields, such as work
 psychology, user modeling and context aware systems.
 
 
-### Koldijk et. al 2018
+## Koldijk et. al 2018
 
 Abstract:
 
@@ -50,7 +50,7 @@ yield most valuable information, followed by posture. We find that especially fo
 individual differences. When we train models on particular subgroups of similar users, (in almost all cases) a specialized model
 performs equally well or better than a generic model.
 
-### Kizito et. al 2019
+## Kizito et. al 2019
 
 Abstract:
 
