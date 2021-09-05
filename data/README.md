@@ -4,4 +4,4 @@ Heart rate variability has been studied as an indicator for individuals' health 
 
 ## Data Splits
 
-Training, validation, and data splits are included in [splits](splits).
+Training, validation, and test splits are included in [splits](splits).
