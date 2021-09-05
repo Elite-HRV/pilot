@@ -6,7 +6,7 @@ Heart rate variability has been studied as an indicator for individuals' health 
 
 ## The `pilot` package
 
-To get things started, we have created a scaffold for a Python package, `pilot`, in case you choose to develop your code as a pip installable Python project. Note that some of the fields in `setup.py` are intentionally left blank for you to fill in your name and associated details!
+To get things started, we have created a scaffold for a Python package, `pilot`, in case you choose to develop your code as a pip installable Python project. Note that some of the fields in [`setup.py`](setup.py) are intentionally left blank for you to fill in your name and associated details!
 
 #### Setup
 
