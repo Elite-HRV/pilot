@@ -9,7 +9,9 @@ some previous studies are outlined in the following three papers included
 in this repository:
 
 
-## The Swell Knowledge Work Dataset for Stress and User Modeling Research [Koldijk et. al 2014](koldijk_2014.pdf)
+## The Swell Knowledge Work Dataset for Stress and User Modeling Research 
+
+[Koldijk et. al 2014](koldijk_2014.pdf)
 
 Abstract:
 
@@ -33,7 +35,9 @@ valuable contribution to several research fields, such as work
 psychology, user modeling and context aware systems.
 
 
-## Detecting Work Stress in Offices by Combining Unobtrusive Sensors [Koldijk et. al 2018](koldijk_2018.pdf)
+## Detecting Work Stress in Offices by Combining Unobtrusive Sensors 
+
+[Koldijk et. al 2018](koldijk_2018.pdf)
 
 Abstract:
 
@@ -50,7 +54,9 @@ yield most valuable information, followed by posture. We find that especially fo
 individual differences. When we train models on particular subgroups of similar users, (in almost all cases) a specialized model
 performs equally well or better than a generic model.
 
-## Thermal Comfort and Stress Recognition in Office Environment, [Kizito et. al 2019](kizito_2019.pdf)
+## Thermal Comfort and Stress Recognition in Office Environment 
+
+[Kizito et. al 2019](kizito_2019.pdf)
 
 Abstract:
 
@@ -70,7 +76,9 @@ is perhaps non-overlapping, and that the two can be distinguished with a near-pe
 These results indicate that it could be possible to design an automatic and unobtrusive system
 that delivers thermal comfort and predicts work stress based on people's HRV.
 
-## The Effect of Person-Specific Biometrics in Improving Generic Stress Predictive Models, [Kizito et. al 2019](kizito_2019_2.pdf)
+## The Effect of Person-Specific Biometrics in Improving Generic Stress Predictive Models
+
+[Kizito et. al 2019](kizito_2019_2.pdf)
 
 Because stress is subjective and is expressed differently from
 one person to another, generic stress prediction models (i.e., models that
