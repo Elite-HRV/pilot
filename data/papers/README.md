@@ -9,7 +9,7 @@ some previous studies are outlined in the following three papers included
 in this repository:
 
 
-## Kizito et. al 2014
+## The Swell Knowledge Work Dataset for Stress and User Modeling Research [Koldijk et. al 2014](koldijk_2014.pdf)
 
 Abstract:
 
@@ -33,7 +33,7 @@ valuable contribution to several research fields, such as work
 psychology, user modeling and context aware systems.
 
 
-## Koldijk et. al 2018
+## Detecting Work Stress in Offices by Combining Unobtrusive Sensors [Koldijk et. al 2018](koldijk_2018.pdf)
 
 Abstract:
 
@@ -50,7 +50,7 @@ yield most valuable information, followed by posture. We find that especially fo
 individual differences. When we train models on particular subgroups of similar users, (in almost all cases) a specialized model
 performs equally well or better than a generic model.
 
-## Kizito et. al 2019
+## Thermal Comfort and Stress Recognition in Office Environment, [Kizito et. al 2019](kizito_2019.pdf)
 
 Abstract:
 
@@ -69,3 +69,27 @@ analysis suggests that, although both thermal comfort and work stress affect HRV
 is perhaps non-overlapping, and that the two can be distinguished with a near-perfect accuracy.
 These results indicate that it could be possible to design an automatic and unobtrusive system
 that delivers thermal comfort and predicts work stress based on people's HRV.
+
+## The Effect of Person-Specific Biometrics in Improving Generic Stress Predictive Models, [Kizito et. al 2019](kizito_2019_2.pdf)
+
+Because stress is subjective and is expressed differently from
+one person to another, generic stress prediction models (i.e., models that
+predict the stress of any person) perform crudely. Only person-specific
+ones (i.e., models that predict the stress of a preordained person) yield
+reliable predictions, but they are not adaptable and costly to deploy
+in real-world environments. For illustration, in an office environment,
+a stress monitoring system that uses person-specific models would
+require collecting new data and training a new model for every em-
+ployee. Moreover, once deployed, the models would deteriorate and need
+expensive periodic upgrades because stress is dynamic and depends
+on unforeseeable factors. We propose a simple, yet practical and cost-
+effective calibration technique that derives an accurate and personalized
+stress prediction model from physiological samples collected from a large
+population. We validate our approach on two stress datasets. The results
+show that our technique performs much better than a generic model.
+For instance, a generic model achieved only a 42.5% ±19.9% accuracy.
+However, with only 100 calibration samples, we raised its accuracy to
+95.2%±0.5%. We also propose a blueprint for a stress monitoring system
+based on our strategy, and we debate its merits and limitation. Finally,
+we made public our source code and the relevant datasets to allow other
+researchers to replicate our findings.
