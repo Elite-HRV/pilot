@@ -6,11 +6,7 @@ Heart rate variability has been studied as an indicator for individuals' health 
 
 
 ## Challenge Aims
-
-We would like to keep this challenge fairly open ended, as members of our R&D team work with 
-a good deal of freedom. What we ask is that you work with the data and papers provided in this repository, using the tools of data science and machine learning to provide some insight into this dataset. You will find that the papers include frame a classification problem for this data, but you are not required to tackle that particular problem. We'd be happy to see solutions for the classification problem, but unsupervised and semi-supervised approaches are welcome too. You could also approach this data with regression in mind. Choose whatever interests you most, and keep in mind that we will want to talk through your approach in a follow on interview! 
-
-Please structure your work in whatever way you see fit. This optionally includes Jupyter notebooks, Python scripts, or a Python package (see below for bits on packaging). Clarity, reproducibility, and reusability are highly valued, even over novelty and (sometimes) performance!
+In general, we want this take home assessment to be flexible and relatively open-ended. As we're very aware of the amount of time and energy data science tasks can take (it's fun, but can be challenging!), we've provided a list of prompts (in [data/ideas.md](data/ideas.md)) and ideas to get the ball rolling. Feel free to utilize any one of these for your assessment or follow along any one of the analyses outlined in the included research papers. We're not expecting a full-fledged analysis at all, we just want to see generally how you approach certain parts ot he data science pipeline and how that translates into your code. You can include inline comments, external notes, or any additional materials in your submission. Please also structure your work in whatever way you see fit. This optionally includes Jupyter notebooks, Python scripts, or a Python package (see below for bits on packaging). Clarity, reproducibility, and reusability are highly valued, even over novelty and (sometimes) performance!
 
 
 Lastly, thank you for participating in our data science challenge. We are excited to talk through your ideas!
