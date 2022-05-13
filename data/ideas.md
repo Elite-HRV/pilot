@@ -1,4 +1,4 @@
-## General Questions
+## Ideas and Prompts
 
 1.  The classes in the SWELL dataset are unbalanced. What are some techniques you would implement to handle this? Please code a few functions to demonstrate your process.
 2.  Feature extraction is a super important part of data science and a crucial component of working with the data we have at Spren. Given the features included in this dataset, see if you can whittle the list of features down to a more meaningful set. Feel free to use any feature extraction technique you're familiar with, or any technique that's outlined in any of the papers included in this repo.
